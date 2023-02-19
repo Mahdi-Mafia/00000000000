@@ -6,4 +6,3 @@
 
 `load it into your MTA:SA server using the loadmodule`
 
-enjoy :)
